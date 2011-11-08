@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Admin Toolbar - Admin feature.
+ */
+
+include_once('cms_feature_admin_toolbar_admin.features.inc');
